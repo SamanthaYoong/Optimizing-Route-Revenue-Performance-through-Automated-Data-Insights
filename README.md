@@ -1,6 +1,6 @@
 #  Case Study: Optimizing Route Revenue Performance through Automated Data Insights  
 
-## 📌 Context  
+## ✈️ Context  
 Airlines operate in highly competitive and dynamic markets where route profitability is influenced by multiple factors: **demand patterns, seasonality, competitor pricing, fuel costs, and macroeconomic conditions**.  
 
 Traditional revenue management methods often rely on manual reporting and lagging indicators, limiting the speed and accuracy of decision-making.  
